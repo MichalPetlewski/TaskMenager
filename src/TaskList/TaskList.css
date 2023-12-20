@@ -1,0 +1,36 @@
+.buttonImg{
+    max-width: 20px;
+}
+
+.done{
+    color: green;
+}
+
+.list-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.not-done{
+    color: white;
+}
+
+.not-done:hover{
+    color: white;
+}
+
+.form-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
